@@ -1,0 +1,10 @@
+/*This code will be ignored because inline and internal styling take precedence*/
+body
+  {
+    background-color:red
+  }
+
+h1
+  {
+    color:blue
+  }
